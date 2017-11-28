@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B7217471FCE228900EEAA7C /* Meal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Meal.playground; sourceTree = "<group>"; };
 		5B85592D1FCD7F190099ADE6 /* Food.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Food.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B8559301FCD7F190099ADE6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B8559321FCD7F190099ADE6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				5B8559391FCD7F190099ADE6 /* LaunchScreen.storyboard */,
 				5B85593C1FCD7F190099ADE6 /* Info.plist */,
 				5B85595E1FCD8A6E0099ADE6 /* MyPlayground.playground */,
+				5B7217471FCE228900EEAA7C /* Meal.playground */,
 			);
 			path = Food;
 			sourceTree = "<group>";
@@ -507,6 +509,7 @@
 				5B8559571FCD7F190099ADE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B8559581FCD7F190099ADE6 /* Build configuration list for PBXNativeTarget "FoodTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +518,7 @@
 				5B85595A1FCD7F190099ADE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B85595B1FCD7F190099ADE6 /* Build configuration list for PBXNativeTarget "FoodUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +527,7 @@
 				5B85595D1FCD7F190099ADE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
