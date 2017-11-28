@@ -47,6 +47,7 @@
 		5B85594C1FCD7F190099ADE6 /* FoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B8559501FCD7F190099ADE6 /* FoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodUITests.swift; sourceTree = "<group>"; };
 		5B8559521FCD7F190099ADE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B85595E1FCD8A6E0099ADE6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				5B8559371FCD7F190099ADE6 /* Assets.xcassets */,
 				5B8559391FCD7F190099ADE6 /* LaunchScreen.storyboard */,
 				5B85593C1FCD7F190099ADE6 /* Info.plist */,
+				5B85595E1FCD8A6E0099ADE6 /* MyPlayground.playground */,
 			);
 			path = Food;
 			sourceTree = "<group>";
